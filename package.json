@@ -1,0 +1,23 @@
+{
+  "name": "babel-plugin-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel ./src/app.js -o compiled.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiic/babel-plugin-test.git"
+  },
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiic/babel-plugin-test/issues"
+  },
+  "homepage": "https://github.com/chiic/babel-plugin-test#readme"
+}
